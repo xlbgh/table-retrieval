@@ -31,9 +31,9 @@ Make sure you have the following in your working directory:
 - `CBS_Final_Experiment.ipynb`
 - `questions_tables.csv`
 - `tables.csv`
-- `tables_data_df.joblib` [https://drive.google.com/drive/folders/11KLN-xndUKK4CQMnlUYamij511wV9uWV?usp=sharing](Google Drive)
-- all files from `/experiment_results/` [https://drive.google.com/drive/folders/11KLN-xndUKK4CQMnlUYamij511wV9uWV?usp=sharing](Google_Drive)
-
+- `tables_data_df.joblib` (GOOGLE DRIVE LINK)
+- all files from `/experiment_results/` (GOOGLE DRIVE LINK)
+[https://drive.google.com/drive/folders/11KLN-xndUKK4CQMnlUYamij511wV9uWV?usp=sharing](Google_Drive)
 ---
 
 ## /snelliusjobscripts/ Generating Summaries on Snellius
