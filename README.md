@@ -24,7 +24,7 @@ Thesis repo: LLM generated metadata against original CBS table metadata using In
 
 ---
 
-## Requirements to run the final evaluation notebook
+## Requirements to run the final evaluation notebook (CBS_Final_Experiment.ipynb)
 
 Make sure you have the following in your working directory:
 
@@ -50,7 +50,7 @@ Make sure you have the following in your working directory:
 
 Make sure you have the following in your working directory:
 - `tables.csv`
-- 'observations.json'
+- 'observations.json' [Drive](https://drive.google.com/drive/folders/11KLN-xndUKK4CQMnlUYamij511wV9uWV?usp=sharing)
 ---
 
 ## Using Hugging Face Models on Snellius
