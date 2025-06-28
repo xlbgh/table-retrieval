@@ -50,7 +50,7 @@ Make sure you have the following in your working directory:
 
 Make sure you have the following in your working directory:
 - `tables.csv`
-- 'observations.json' [Drive](https://drive.google.com/drive/folders/11KLN-xndUKK4CQMnlUYamij511wV9uWV?usp=sharing)
+- `observations.json` [Drive](https://drive.google.com/drive/folders/11KLN-xndUKK4CQMnlUYamij511wV9uWV?usp=sharing)
 ---
 
 ## Using Hugging Face Models on Snellius
